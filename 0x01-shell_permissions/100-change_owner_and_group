@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chown --recursive vincent:staff
