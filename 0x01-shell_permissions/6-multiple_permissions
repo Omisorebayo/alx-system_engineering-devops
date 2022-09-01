@@ -1,2 +1,2 @@
 #!/bin/bash
-chown chgrp,rwxrwxr-- hello
+chown chgrp,-rwxr-xr-- hello
