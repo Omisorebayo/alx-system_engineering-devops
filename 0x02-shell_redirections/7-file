@@ -1,2 +1,2 @@
 #!/bin/bash
-Best School.txt > touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Best School" > \\\'"Best School"\'\\$\?\\\\\*:)
