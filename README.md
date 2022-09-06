@@ -1,1 +1,1 @@
-thank God
+my first alias
